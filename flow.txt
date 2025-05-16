@@ -1,0 +1,4 @@
+client - send exp
+server -  check ambiguous spacing
+            - check valid infix
+            - solve expression
